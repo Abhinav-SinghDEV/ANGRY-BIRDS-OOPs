@@ -1,4 +1,4 @@
-# 🐦 Angry Birds Clone (C++ & SFML)
+# 🐦 Angry Birds Clone (C++, OOPs &  SFML)
 
 A robust, 2D physics-based game inspired by Angry Birds, built entirely in C++ utilizing the Simple and Fast Multimedia Library (SFML). 
 
